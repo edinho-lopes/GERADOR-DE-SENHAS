@@ -5,4 +5,4 @@
  <a href="https://edinho-lopes.github.io/GERADOR-DE-SENHAS/">link da aplicação</a>
 
  
-                      CONCLUÍDO ✔
+                      CONCLUÍDO ✅
