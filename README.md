@@ -4,4 +4,4 @@
  https://edinho-lopes.github.io/GERADOR-DE-SENHAS/
  <br>
  
-                      <p>CONCLUÍDO ✔<p>
+                      CONCLUÍDO ✔
